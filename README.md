@@ -26,7 +26,9 @@ Atividades Submetidas:
 Seções III (Metodologia) e IV (Resultados e Conclusões) do relatório.
 
 Seção III:
-- Apresentar a metodologia.
+- Desenvolvimento da Ideia.
+- Produção do Código, utilizando as diversas ferramentas que nos propomos a usar.
 
 Seção IV:
-- Resultados e Conslusões.
+- Demonstração de que o Software funcionou.
+- Discussão do resultado obtido em relação ao esperado.
